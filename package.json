@@ -1,0 +1,21 @@
+{
+  "name": "anujverma",
+  "version": "1.0.0",
+  "description": "An introduction to anuj's professional profile as a developer",
+  "main": "index.js",
+  "bin": {
+    "anujverma": "index.js",
+    "anuj": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj Verma<anujverma000@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.5.0"
+  }
+}
