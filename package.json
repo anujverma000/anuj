@@ -1,6 +1,6 @@
 {
   "name": "anujverma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An introduction to anuj's professional profile as a developer",
   "main": "index.js",
   "bin": {
@@ -11,6 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anuj Verma<anujverma000@gmail.com",
+  "keywords": [
+    "anuj",
+    "verma",
+    "resume",
+    "cli resume",
+    "cli cv",
+    "cv"
+  ],
   "license": "ISC",
   "dependencies": {
     "boxen": "^5.0.1",
